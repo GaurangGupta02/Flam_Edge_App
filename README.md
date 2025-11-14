@@ -134,3 +134,12 @@ Build → Build Bundle(s) / APK(s) → Build APK(s)
 🤝 Contributing
 
 Contributions, bug reports, and suggestions are welcome!
+
+## ScreenShots
+
+![WhatsApp Image 2025-11-14 at 9 53 15 AM](https://github.com/user-attachments/assets/50af39e0-79a8-4ed3-b574-fc2343bd3219)
+
+![WhatsApp Image 2025-11-14 at 9 53 16 AM](https://github.com/user-attachments/assets/0cb539e9-e7ee-4c4a-b7d7-36f0fd3dbf56)
+
+
+
